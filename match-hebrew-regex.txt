@@ -1,0 +1,4 @@
+In the beginning, אלהים created בְרֵשִׁית  the ב heavens and הארץ    והשׁמים.
+
+// Regex to match all Hebrew Strings
+([֐-״|יִ-ﭏ]+\s+[֐-״|יִ-ﭏ]+)|([֐-״|יִ-ﭏ]+)
